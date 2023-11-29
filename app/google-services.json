@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66105527757",
+    "project_id": "flowdeck-2270b",
+    "storage_bucket": "flowdeck-2270b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66105527757:android:3c056e7a3ab0512e5e4884",
+        "android_client_info": {
+          "package_name": "com.example.flowdeck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAacrYaLd4Nrmyi-0PYquEHNbqzCtnL-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
